@@ -1,4 +1,4 @@
 hi!
 i am pooja 
-currently learning about devops.
+currently learning about devops
 
